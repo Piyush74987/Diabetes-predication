@@ -16,10 +16,14 @@ A Logistic Regression model is trained on the cleaned and processed dataset, pro
 ## Web Application Development:
 A Flask-based web application was developed to offer users a simple, interactive interface for inputting health metrics and receiving immediate diabetes predictions.
 # Project Structure
-/data: Contains the cleaned dataset and any relevant data files used in the project.
-/notebooks: Jupyter notebooks with data cleaning, EDA, and feature engineering steps.
-/app: The Flask application files, including templates and the primary application script.
-/models: The Logistic Regression model files saved for the application.
+## /data: 
+Contains the cleaned dataset and any relevant data files used in the project.
+## /notebooks:
+Jupyter notebooks with data cleaning, EDA, and feature engineering steps.
+## /app:
+The Flask application files, including templates and the primary application script.
+## /models:
+The Logistic Regression model files saved for the application.
 # Key Features
 ## Real-Time Prediction:
 Provides an instant prediction of diabetes likelihood based on user-provided inputs.

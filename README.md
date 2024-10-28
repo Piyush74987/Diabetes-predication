@@ -37,3 +37,7 @@ The Flask app offers a clean, simple interface with easy input forms and result 
 Languages: Python, HTML (for web front end)
 Libraries: Pandas, NumPy, scikit-learn (sklearn) for machine learning, data analysis, and model implementation
 Frameworks: Flask for web application development
+
+![Screenshot (57)](https://github.com/user-attachments/assets/95b8c11f-37f1-4a23-a3c9-aea5971c8796)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/42b84081-ab08-4d33-9b04-3a371562ec52)
